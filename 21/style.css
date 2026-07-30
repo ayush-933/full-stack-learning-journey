@@ -1,0 +1,11 @@
+    h1{
+    text-align:center;
+}
+span{
+    border:2px green solid;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    display:block;
+}
