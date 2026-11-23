@@ -1,4 +1,4 @@
-let num=10;
+let num=Math.floor(Math.random()*100)+1;
 let answer=prompt("guess the number");
 let NoOfGuess=1;
 while(NoOfGuess<=10){
